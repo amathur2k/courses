@@ -14,7 +14,7 @@ model.predict <- function(df) {
 
 yhat.config  <- c(
         username="rdpeng@gmail.com",
-        apikey="90d2a80bb532cabb2387aa51ac4553cc",
+        apikey1="",
         env="http://sandbox.yhathq.com/"
 )
 
